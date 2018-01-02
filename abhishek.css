@@ -3,7 +3,7 @@ body{
     background-color: transparent;
 }
 .navbar-custom{
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 nav a
 {
@@ -132,7 +132,7 @@ nav a:hover{
 .about-me{
     color: #e6bbdc;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.6);
     background-image: url(img/about.jpg);
     background-blend-mode: multiply;
     background-attachment: fixed;
@@ -149,7 +149,7 @@ nav a:hover{
     color:#fff;
     width: 100%;
     height: max-content;
-   background-color: rgba(0, 0, 0, 0.8);
+   background-color: rgba(0, 0, 0, 0.6);
     background-image: url(img/skill.jpg);
     background-blend-mode: multiply;
     background-attachment: fixed;
@@ -172,7 +172,7 @@ nav a:hover{
     width: 30px;
     font-size: 25px;
     color: #777;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
     border-radius: 20px;
     opacity: 0.5;
@@ -190,7 +190,7 @@ nav a:hover{
     text-align: center;
 }
 .resume{
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.5);
     background-image: url(img/resume.jpg);
     background-blend-mode: multiply;
     background-attachment: fixed;
